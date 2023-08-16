@@ -2,6 +2,8 @@
 
 ## Título da Prática: Formulário de Reserva de Viagem Avançado
 
+![layout tela de reserva](./imgs/layout-reserva.jpg)
+
 ### Objetivo
 
 O objetivo desta atividade é permitir que os alunos apliquem os conceitos aprendidos na aula “Continuação: formulários com HTML”, criando um formulário de reserva de viagem mais avançado que incorpora diferentes tipos de campos de entrada, incluindo caixas de seleção, botões de rádio e listas suspensas.
